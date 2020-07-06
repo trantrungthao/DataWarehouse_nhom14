@@ -1,0 +1,61 @@
+﻿STT,MSSV,Họ Lót,Tên,Ngày sinh,Mã lớp,Tên lớp,SĐT,Email,Quê quán,Ghi chú
+1,17130002,Ngô Vĩ,An,01/02/1999,DH17DTB,Công nghệ thông tin b,971234455,17130002@st.hcmuaf.edu.vn,TP HCM,Không
+2,17130010,Nguyễn Như,Bảo,02/02/1999,DH17DTA,Công nghệ thông tin A,971234456,17130010@st.hcmuaf.edu.vn,TP HCM,Không
+3,17130012,Lê Nguyễn Nhật,Bình,03/02/1999,DH17DTA,Công nghệ thông tin A,971234457,17130012@st.hcmuaf.edu.vn,TP HCM,Không
+4,15130018,Vũ Như,Chương,04/02/1999,DH15DTA,Công nghệ thông tin A,971234458,15130018@st.hcmuaf.edu.vn,TP HCM,Không
+5,16130311,Phùng Quốc,Cường,05/02/1999,DH16DTB,Công nghệ thông tin B,971234459,16130311@st.hcmuaf.edu.vn,TP HCM,Không
+6,17130046,Bùi Hoàng,Gia,06/02/1999,DH17DTB,Công nghệ thông tin b,971234460,17130046@st.hcmuaf.edu.vn,TP HCM,Không
+7,17130058,Trương Thị Mỹ,Hảo,07/02/1999,DH17DTC,Công nghệ thông tin C,971234461,17130058@st.hcmuaf.edu.vn,TP HCM,Không
+8,17130055,Nguyễn Thị Thúy,Hằng,08/02/1999,DH17DTB,Công nghệ thông tin b,971234462,17130055@st.hcmuaf.edu.vn,TP HCM,Không
+9,16130367,Nguyễn Thị,Hậu,09/02/1999,DH16DTB,Công nghệ thông tin B,971234463,16130367@st.hcmuaf.edu.vn,TP HCM,Không
+10,17130059,Trần Thanh,Hậu,10/02/1999,DH17DTC,Công nghệ thông tin C,971234464,17130059@st.hcmuaf.edu.vn,TP HCM,Không
+11,15130057,Phạm Minh,Hiển,11/02/1999,DH15DTC,Công nghệ thông tin C,971234465,15130057@st.hcmuaf.edu.vn,TP HCM,Không
+12,16130373,Hồ Thanh,Hiệp,12/02/1999,DH16DTB,Công nghệ thông tin B,971234466,16130373@st.hcmuaf.edu.vn,TP HCM,Không
+13,17130065,Đặng Trung,Hiếu,13/02/1999,DH17DTA,Công nghệ thông tin A,971234467,17130065@st.hcmuaf.edu.vn,TP HCM,Không
+14,17130069,Nguyễn Minh,Hiếu,14/02/1999,DH17DTB,Công nghệ thông tin b,971234468,17130069@st.hcmuaf.edu.vn,TP HCM,Không
+15,17130077,Nguyễn Ngọc,Hồng,15/02/1999,DH17DTB,Công nghệ thông tin b,971234469,17130077@st.hcmuaf.edu.vn,TP HCM,Không
+16,17130088,Phan Lê,Huy,16/02/1999,DH17DTB,Công nghệ thông tin b,971234470,17130088@st.hcmuaf.edu.vn,TP HCM,Không
+17,17130090,Vũ Quốc,Huy,17/02/1999,DH17DTA,Công nghệ thông tin A,971234471,17130090@st.hcmuaf.edu.vn,TP HCM,Không
+18,17130081,Nguyễn Thanh,Hưng,18/02/1999,DH17DTC,Công nghệ thông tin C,971234472,17130081@st.hcmuaf.edu.vn,TP HCM,Không
+19,17130096,Trần Duy,Khang,19/02/1999,DH17DTA,Công nghệ thông tin A,971234473,17130096@st.hcmuaf.edu.vn,TP HCM,Không
+20,17130110,Nguyễn Thị Hồng,Loan,20/02/1999,DH17DTB,Công nghệ thông tin b,971234474,17130110@st.hcmuaf.edu.vn,TP HCM,Không
+21,17130113,Lê Xuân,Lợi,21/02/1999,DH17DTC,Công nghệ thông tin C,971234475,17130113@st.hcmuaf.edu.vn,TP HCM,Không
+22,17130117,Phan Văn,Luận,22/02/1999,DH17DTB,Công nghệ thông tin b,971234476,17130117@st.hcmuaf.edu.vn,TP HCM,Không
+23,17130121,Võ Đức,Mạnh,23/02/1999,DH17DTB,Công nghệ thông tin b,971234477,17130121@st.hcmuaf.edu.vn,TP HCM,Không
+24,17130132,Lê Trung,Nghĩa,24/02/1999,DH17DTC,Công nghệ thông tin C,971234478,17130132@st.hcmuaf.edu.vn,TP HCM,Không
+25,17130136,Nguyễn Văn,Nghĩa,25/02/1999,DH17DTC,Công nghệ thông tin C,971234479,17130136@st.hcmuaf.edu.vn,TP HCM,Không
+26,17130152,Nguyễn Đoàn Minh,Nhật,26/02/1999,DH17DTC,Công nghệ thông tin C,971234480,17130152@st.hcmuaf.edu.vn,TP HCM,Không
+27,16130514,Nguyễn Chí,Phong,27/02/1999,DH16DTC,Công nghệ thông tin C,971234481,16130514@st.hcmuaf.edu.vn,TP HCM,Không
+28,17130170,Nguyễn Thị Thuý,Phương,28/02/1999,DH17DTB,Công nghệ thông tin b,971234482,17130170@st.hcmuaf.edu.vn,TP HCM,Không
+29,17130172,Đỗ Kim,Phượng,01/03/1999,DH17DTB,Công nghệ thông tin b,971234483,17130172@st.hcmuaf.edu.vn,TP HCM,Không
+30,17130181,Phạm Văn,Quang,02/03/1999,DH17DTB,Công nghệ thông tin b,971234484,17130181@st.hcmuaf.edu.vn,TP HCM,Không
+31,17130189,Lưu Minh,Sang,03/03/1999,DH17DTB,Công nghệ thông tin b,971234485,17130189@st.hcmuaf.edu.vn,TP HCM,Không
+32,17130216,Lương Trung,Thành,04/03/1999,DH17DTB,Công nghệ thông tin b,971234486,17130216@st.hcmuaf.edu.vn,TP HCM,Không
+33,17130218,Trần Trung,Thảo,05/03/1999,DH17DTC,Công nghệ thông tin C,971234487,17130218@st.hcmuaf.edu.vn,TP HCM,Không
+34,17130212,Nguyễn Quyết,Thắng,06/03/1999,DH17DTB,Công nghệ thông tin b,971234488,17130212@st.hcmuaf.edu.vn,TP HCM,Không
+35,17130232,Trần Hàng Hải,Thông,07/03/1999,DH17DTB,Công nghệ thông tin b,971234489,17130232@st.hcmuaf.edu.vn,TP HCM,Không
+36,17130233,Trần Nhựt,Thông,08/03/1999,DH17DTA,Công nghệ thông tin A,971234490,17130233@st.hcmuaf.edu.vn,TP HCM,Không
+37,17130236,Lê Tiến,Thuận,09/03/1999,DH17DTA,Công nghệ thông tin A,971234491,17130236@st.hcmuaf.edu.vn,TP HCM,Không
+38,17130239,Nguyễn Văn,Thường,10/03/1999,DH17DTA,Công nghệ thông tin A,971234492,17130239@st.hcmuaf.edu.vn,TP HCM,Không
+39,17130241,Nguyễn Đình,Tiên,11/03/1999,DH17DTA,Công nghệ thông tin A,971234493,17130241@st.hcmuaf.edu.vn,TP HCM,Không
+40,17130242,Đặng Minh,Tiến,12/03/1999,DH17DTB,Công nghệ thông tin b,971234494,17130242@st.hcmuaf.edu.vn,TP HCM,Không
+41,17130248,Phan Văn,TỊnh,13/03/1999,DH17DTB,Công nghệ thông tin b,971234495,17130248@st.hcmuaf.edu.vn,TP HCM,Không
+42,17130250,Bùi Lê Bảo,Trân,14/03/1999,DH17DTA,Công nghệ thông tin A,971234496,17130250@st.hcmuaf.edu.vn,TP HCM,Không
+43,17130261,Trần Nhật,Trường,15/03/1999,DH17DTC,Công nghệ thông tin C,971234497,17130261@st.hcmuaf.edu.vn,TP HCM,Không
+44,17130915,Trần Xuân,Trường,16/03/1999,DH17DTB,Công nghệ thông tin b,971234498,17130915@st.hcmuaf.edu.vn,TP HCM,Không
+45,17130262,Từ Thị Hoài,Tú,17/03/1999,DH17DTB,Công nghệ thông tin b,971234499,17130262@st.hcmuaf.edu.vn,TP HCM,Không
+46,16130638,Đỗ Văn Tường,Tứ,18/03/1999,DH16DTB,Công nghệ thông tin B,971234500,16130638@st.hcmuaf.edu.vn,TP HCM,Không
+47,17130271,Nguyễn Doãn Hoàng,Việt,19/03/1999,DH17DTC,Công nghệ thông tin C,971234501,17130271@st.hcmuaf.edu.vn,TP HCM,Không
+48,17130272,Nguyễn Quốc,Việt,20/03/1999,DH17DTB,Công nghệ thông tin b,971234502,17130272@st.hcmuaf.edu.vn,TP HCM,Không
+49,17130273,Phạm Hoàng,Việt,21/03/1999,DH17DTB,Công nghệ thông tin b,971234503,17130273@st.hcmuaf.edu.vn,TP HCM,Không
+50,17130277,Hồ Công Hoài,Vũ,22/03/1999,DH17DTC,Công nghệ thông tin C,971234504,17130277@st.hcmuaf.edu.vn,TP HCM,Không
+51,16130294,Huỳnh Thế,Bảo,23/03/1999,DH16DTA,Công nghệ thông tin A,971234505,16130294@st.hcmuaf.edu.vn,TP HCM,Không
+52,15130013,Phạm Văn,Cảnh,24/03/1999,DH15DTA,Công nghệ thông tin A,971234506,15130013@st.hcmuaf.edu.vn,TP HCM,Không
+53,17130043,Trần Ngô Đức,Duy,25/03/1999,DH17DTB,Công nghệ thông tin b,971234507,17130043@st.hcmuaf.edu.vn,TP HCM,Không
+54,16130322,Nguyễn Văn,Đạt,26/03/1999,DH16DTC,Công nghệ thông tin C,971234508,16130322@st.hcmuaf.edu.vn,TP HCM,Không
+55,15130024,Trần Văn,Đăng,27/03/1999,DH15DTA,Công nghệ thông tin A,971234509,15130024@st.hcmuaf.edu.vn,TP HCM,Không
+56,16130325,Hồ Thị,Đẹp,28/03/1999,DH16DTA,Công nghệ thông tin A,971234510,16130325@st.hcmuaf.edu.vn,TP HCM,Không
+57,17130050,Ngô Minh,Hải,29/03/1999,DH17DTC,Công nghệ thông tin C,971234511,17130050@st.hcmuaf.edu.vn,TP HCM,Không
+58,17130068,Nguyễn Minh,Hiếu,30/03/1999,DH17DTC,Công nghệ thông tin C,971234512,17130068@st.hcmuaf.edu.vn,TP HCM,Không
+59,16130382,Phạm Đức,Hiếu,31/03/1999,DH16DTA,Công nghệ thông tin A,971234513,16130382@st.hcmuaf.edu.vn,TP HCM,Không
+60,17130081,Nguyễn Thanh,Hưng,01/04/1999,DH17DTC,Công nghệ thông tin C,971234514,17130081@st.hcmuaf.edu.vn,TP HCM,Không
