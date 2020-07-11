@@ -11,7 +11,6 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
 public class SendMail {
-	//Nhan vao to: email nguoi nhan , subject: tieu de, text: noi dung
 	public static boolean sendMail(String to, String subject, String text) {
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
